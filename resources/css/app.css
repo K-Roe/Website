@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+}
+
+
+#Main-Photo {
+    margin-top: 70px;
+
+}
+
+#Intro {
+    margin-top: 150px;
+}
+
+#Intro h1 {
+    text-decoration: underline;
+}
+#Intro p {
+    font-weight: bold;
+}
